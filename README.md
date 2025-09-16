@@ -120,6 +120,3 @@ This project is licensed under the MIT License.
 
 ---
 
-If you want, I can also **write a matching `requirements.txt`** with the correct versions of `torch`, `transformers`, `numpy`, etc., so others can run your repo without errors.  
-
-Do you want me to do that next?
